@@ -1,1 +1,8 @@
-# aprendizaje_profundo_tarea_2
+# Curso de aprendizaje profundo
+
+# PCIC, UNAM
+
+Tarea 2: Redes convolucionales y recurrentes
+
+Jorge Alfonso Tonatiuh Martínez Galicia
+
